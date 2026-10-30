@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.1.0 — four new topics
+* New topics: **Adjective** (95), **Modal Verb** (42), **Causative Verb** (22)
+  and **Subjunctive** (23), from the English Bichitra question banks. Every
+  question has a short Bangla explanation (`explainBn`).
+* One reported-speech question added to Sequence of Tense.
+* Repeated questions inside the source banks were merged (sources combined);
+  "fewer guests" was skipped because Noun already has it.
+* Source fixes: Adjective "gusty" had two identical options, "strong ___ carry"
+  was missing "to", and "underlined word" stems now name the word.
+
 ## 2.0.2 — new header photo
 * The CU main gate photo is the header on the home and CU pages: responsive
   480/768/1113 px WebP (27–72 KB instead of 109 KB), preloaded, with an

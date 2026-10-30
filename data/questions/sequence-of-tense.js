@@ -1,4 +1,4 @@
-// Sequence of Tense — 50 questions.
+// Sequence of Tense — 51 questions.
 // To add a question, copy one block below, paste it at the end of the list and edit it.
 // answer: 'A' | 'B' | 'C' | 'D'. explainBn and units are optional. See CONTENT_GUIDE.md.
 export default {
@@ -361,6 +361,14 @@ export default {
       answer: "C",
       explain: "Previous week precedes the past reporting time: past perfect.",
       source: "Practice bank",
+    },
+    {
+      q: "He said that he ____ be unable to come.",
+      options: ["will","shall","should","would"],
+      answer: "D",
+      explain: "Would is the reported-speech counterpart of will.",
+      explainBn: "Reported speech-এ past reporting verb (said) থাকলে will → would।",
+      source: "29th BCS",
     },
   ],
 };

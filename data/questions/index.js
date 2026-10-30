@@ -14,8 +14,12 @@ import article from './article.js';
 import noun from './noun.js';
 import number from './number.js';
 import gender from './gender.js';
+import adjective from './adjective.js';
 import conditionalSentences from './conditional-sentences.js';
 import hopeWish from './hope-wish.js';
+import modalVerb from './modal-verb.js';
+import causativeVerb from './causative-verb.js';
+import subjunctive from './subjunctive.js';
 import mixedEnglish from './mixed-english.js';
 
 export const TOPICS_RAW = [
@@ -25,8 +29,12 @@ export const TOPICS_RAW = [
   noun,
   number,
   gender,
+  adjective,
   conditionalSentences,
   hopeWish,
+  modalVerb,
+  causativeVerb,
+  subjunctive,
   mixedEnglish,
 ];
 
