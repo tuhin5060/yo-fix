@@ -1,4 +1,4 @@
-// Modal Verb — 42 questions.
+// Modal Verb — 52 questions.
 // To add a question, copy one block below, paste it at the end of the list and edit it.
 // answer: 'A' | 'B' | 'C' | 'D'. explainBn and units are optional. See CONTENT_GUIDE.md.
 export default {
@@ -344,6 +344,86 @@ export default {
       explain: "Had better + bare verb expresses advice.",
       explainBn: "পরামর্শ: had better + base verb।",
       source: "CKRUET 2024–25",
+    },
+    {
+      q: "You ____ submit the form before the stated deadline; it is compulsory.",
+      options: ["might","could","must","may"],
+      answer: "C",
+      explain: "Must expresses strong obligation.",
+      explainBn: "বাধ্যতামূলক (compulsory) বোঝাতে must।",
+      source: "TOEFL-style practice",
+    },
+    {
+      q: "She ____ have forgotten the appointment; her calendar still shows it.",
+      options: ["mustn't","ought","need","might"],
+      answer: "D",
+      explain: "Might have + past participle expresses past possibility.",
+      explainBn: "অতীতের সম্ভাবনা: might have + V3।",
+      source: "TOEFL-style practice",
+    },
+    {
+      q: "They ____ have left already; the office is empty.",
+      options: ["may","can to","should to","must to"],
+      answer: "A",
+      explain: "May have + past participle expresses possible past completion.",
+      explainBn: "অতীতে কাজটি হয়ে থাকতে পারে: may have + V3; modal-এর পরে to বসে না।",
+      source: "TOEFL-style practice",
+    },
+    {
+      q: "You ____ smoke in the laboratory; it is prohibited.",
+      options: ["would","must not","need not","may"],
+      answer: "B",
+      explain: "Must not expresses prohibition, not lack of necessity.",
+      explainBn: "নিষেধ বোঝাতে must not; need not মানে দরকার নেই।",
+      source: "TOEFL-style practice",
+    },
+    {
+      q: "There is no need to print the report; you ____ print it.",
+      options: ["cannot","should not necessarily","need not","must not"],
+      answer: "C",
+      explain: "Need not expresses absence of necessity.",
+      explainBn: "দরকার নেই বোঝাতে need not।",
+      source: "TOEFL-style practice",
+    },
+    {
+      q: "You ____ see a doctor if the symptoms continue.",
+      options: ["can to","may to","must to","should"],
+      answer: "D",
+      explain: "Should expresses advice; the other forms wrongly add to after a modal.",
+      explainBn: "পরামর্শ বোঝাতে should; modal-এর পরে to বসে না।",
+      source: "TOEFL-style practice",
+    },
+    {
+      q: "He ____ be at home: the lights are on and his car is outside.",
+      options: ["must","mustn't","needn't","ought"],
+      answer: "A",
+      explain: "Epistemic must indicates a strong logical deduction.",
+      explainBn: "প্রমাণ দেখে দৃঢ় অনুমান: must be।",
+      source: "TOEFL-style practice",
+    },
+    {
+      q: "By the age of six, she ____ swim across the pool.",
+      options: ["must to","could","can to","may to"],
+      answer: "B",
+      explain: "Could describes ability in the past.",
+      explainBn: "অতীতের সামর্থ্য বোঝাতে could।",
+      source: "TOEFL-style practice",
+    },
+    {
+      q: "We ____ have bought tickets; admission was free.",
+      options: ["should","ought","needn't","mustn't"],
+      answer: "C",
+      explain: "Needn't have + past participle refers to an unnecessary completed action.",
+      explainBn: "needn’t have + V3: কাজটি করা হয়েছিল, কিন্তু দরকার ছিল না।",
+      source: "TOEFL-style practice",
+    },
+    {
+      q: "You ____ have told me earlier; I could have helped.",
+      options: ["may to","must to","can to","should"],
+      answer: "D",
+      explain: "Should have + past participle expresses criticism or regret about the past.",
+      explainBn: "should have + V3: অতীতে করা উচিত ছিল কিন্তু করা হয়নি (আক্ষেপ)।",
+      source: "TOEFL-style practice",
     },
   ],
 };

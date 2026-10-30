@@ -1,4 +1,4 @@
-// Hope & Wish — 3 questions.
+// Hope & Wish — 6 questions.
 // To add a question, copy one block below, paste it at the end of the list and edit it.
 // answer: 'A' | 'B' | 'C' | 'D'. explainBn and units are optional. See CONTENT_GUIDE.md.
 export default {
@@ -29,6 +29,30 @@ export default {
       answer: "C",
       explain: "অতীতের কোনো ঘটনা নিয়ে অপূর্ণ ইচ্ছা বোঝাতে “wish + could have + V3” ব্যবহার করা যায়। “Yesterday” অতীত নির্দেশ করছে।",
       source: "Exercise 21 / Mini-test — practice question",
+    },
+    {
+      q: "I wish she ____ here to explain the result.",
+      options: ["is","has been","will be","were"],
+      answer: "D",
+      explain: "Wish about an unreal present situation uses were in formal English.",
+      explainBn: "বর্তমানের অবাস্তব ইচ্ছায় wish + were।",
+      source: "TOEFL-style practice",
+    },
+    {
+      q: "She wishes she ____ more time to prepare.",
+      options: ["has","will have","having","had"],
+      answer: "D",
+      explain: "Wish + past tense expresses unreal present desire.",
+      explainBn: "বর্তমানের অবাস্তব ইচ্ছা: wish + past form — she had more time।",
+      source: "TOEFL-style practice",
+    },
+    {
+      q: "If only I ____ the answer now!",
+      options: ["knew","know","will know","have know"],
+      answer: "A",
+      explain: "If only + past form expresses an unreal present wish.",
+      explainBn: "If only + past form বর্তমানের অবাস্তব ইচ্ছা বোঝায়: If only I knew।",
+      source: "TOEFL-style practice",
     },
   ],
 };

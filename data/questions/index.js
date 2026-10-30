@@ -20,6 +20,7 @@ import hopeWish from './hope-wish.js';
 import modalVerb from './modal-verb.js';
 import causativeVerb from './causative-verb.js';
 import subjunctive from './subjunctive.js';
+import conjunction from './conjunction.js';
 import mixedEnglish from './mixed-english.js';
 
 export const TOPICS_RAW = [
@@ -35,6 +36,7 @@ export const TOPICS_RAW = [
   modalVerb,
   causativeVerb,
   subjunctive,
+  conjunction,
   mixedEnglish,
 ];
 

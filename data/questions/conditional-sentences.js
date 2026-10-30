@@ -1,4 +1,4 @@
-// Conditional Sentences — 15 questions.
+// Conditional Sentences — 16 questions.
 // To add a question, copy one block below, paste it at the end of the list and edit it.
 // answer: 'A' | 'B' | 'C' | 'D'. explainBn and units are optional. See CONTENT_GUIDE.md.
 export default {
@@ -121,6 +121,14 @@ export default {
       explain: "Second conditional-এ would + verb-এর সঙ্গে if-clause-এ past simple “explained” ব্যবহৃত হয়.",
       source: "Exercise 21 — practice question",
       units: [],
+    },
+    {
+      q: "If I ____ you, I would review the evidence again.",
+      options: ["was being","have been","were","am"],
+      answer: "C",
+      explain: "Traditional formal hypothetical if-clause uses were.",
+      explainBn: "বর্তমানের অবাস্তব কল্পনায় if-clause-এ সব subject-এর সাথে were: If I were you।",
+      source: "TOEFL-style practice",
     },
   ],
 };
